@@ -23,6 +23,7 @@
 
 ## 7. Screenshots
 ### 7.1 Summary Statistics Visualization
+![Summary Statistics](https://github.com/ADVindiancoder/COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-2/blob/main/2.jpeg)
 
 
 ## 7.2 Choropleth Map
