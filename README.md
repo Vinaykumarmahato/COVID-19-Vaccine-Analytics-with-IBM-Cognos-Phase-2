@@ -21,6 +21,14 @@
 ## 5. Geospatial Visualization
 - 🗺️ A choropleth map, crafted using Plotly Express, visually represents the distribution of vaccines across countries, categorized by their ISO codes. This map offers a geographical portrayal of administered vaccine types in various nations.
 
+## 7. Screenshots
+### 7.1 Summary Statistics Visualization
+
+
+## 7.2 Choropleth Map
+
+
+
 ##  6. Conclusion
 - 🌍 This analysis illuminates global COVID-19 vaccine distribution, delving into individual countries and their vaccination trends. The utilization of visualization tools like Plotly Express enhances data comprehension, empowering well-informed decision-making processes.
 
