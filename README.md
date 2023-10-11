@@ -27,6 +27,7 @@
 
 
 ## 7.2 Choropleth Map
+![Summary Statistics](https://github.com/ADVindiancoder/COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-2/blob/main/Web%20capture_11-10-2023_123231_localhost.jpeg)
 
 
 
